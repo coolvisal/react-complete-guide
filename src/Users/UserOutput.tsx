@@ -16,6 +16,7 @@ class UserOutput extends React.Component<IProps>{
             <div className="Output" style={style}>
                 <p>User Name: {this.props.userName}</p>
                 <p>Paragraph 2</p>
+                <p>Paragraph 2</p>
             </div>
         )
     };
